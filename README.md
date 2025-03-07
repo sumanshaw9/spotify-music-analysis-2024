@@ -1,4 +1,7 @@
 # spotify-music-analysis-2024
+
+![Spotify Dashboard](Dashboard.png) 
+
 🎵 Spotify Music Analysis 2024 Dashboard
 
 📌 Overview
